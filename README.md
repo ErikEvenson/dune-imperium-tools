@@ -10,7 +10,7 @@ This repository's goal is to develop tools that might be useful to develop and t
 
 ## Data Files
 
-See [./gamedata/dune-imperium].
+See [Game Data](./gamedata/dune-imperium).
 
 - [Board Spaces](./gamedata/dune-imperium/board-spaces.json)
 - [Conflict Cards](./gamedata/dune-imperium/conflict-cards.json)

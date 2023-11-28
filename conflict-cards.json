@@ -1,0 +1,130 @@
+[
+    {
+        "level": "I",
+        "name": "Skirmish",
+        "first": ["1VP"],
+        "second": ["1IC", "2SL"],
+        "third": ["2SL"]
+    },
+    {
+        "level": "I",
+        "name": "Skirmish",
+        "first": ["1IP", "2SL"],
+        "second": ["3SL"],
+        "third": ["2SL"]
+    },
+    {
+        "level": "I",
+        "name": "Skirmish",
+        "first": ["1VP"],
+        "second": ["1WT"],
+        "third": ["1SP"]
+    },
+    {
+        "level": "I",
+        "name": "Skirmish",
+        "first": ["1IP", "1SP"],
+        "second": ["2SP", "1SP"],
+        "third": ["1SP"]
+    },
+    {
+        "level": "II",
+        "name": "Secure Imperial Basin",
+        "first": ["1VP", "1IS"],
+        "second": ["2WT"],
+        "third": ["1WT"]
+    },
+    {
+        "level": "II",
+        "name": "Siege of Arrakeen",
+        "first": ["1VP", "1AS"],
+        "second": ["4SL"],
+        "third": ["2SL"]
+    },
+    {
+        "level": "II",
+        "name": "Siege of Carthag",
+        "first": ["1VP", "1CS"],
+        "second": ["1IC", "1SP"],
+        "third": ["1SP"]
+    },
+    {
+        "level": "II",
+        "name": "Terrible Purpose",
+        "first": ["1VP", "1DS"],
+        "second": ["1WT", "1SP"],
+        "third": ["1SP"]
+    },
+    {
+        "level": "II",
+        "name": "Desert Power",
+        "first": ["1VP", "1WT"],
+        "second": ["1WT", "1SP"],
+        "third": ["1SP"]
+    },
+    {
+        "level": "II",
+        "name": "Cloak and Daggar",
+        "first": ["1IP", "2IC"],
+        "second": ["1IC", "1SP"],
+        "third": ["IC", "1SP"],
+        "notes": "third awards are OR"
+    },
+    {
+        "level": "II",
+        "name": "Raid Stockpiles",
+        "first": ["1IC","3SP"],
+        "second": ["2SP"],
+        "third": ["1SP"]
+    },
+    {
+        "level": "II",
+        "name": "Machinations",
+        "first": ["2IP"],
+        "second": ["1WT", "2SL"],
+        "third": ["1WT"],
+        "notes": "first award are different IPs"
+    },
+    {
+        "level": "II",
+        "name": "Sort through the Chaos",
+        "first": ["1MT", "1IC", "2SL"],
+        "second": ["1IC", "2SL"],
+        "third": ["2SL"]
+    },
+    {
+        "level": "II",
+        "name": "Guild Bank Raid",
+        "first": ["6SL"],
+        "second": ["4SL"],
+        "third": ["2SL"]
+    },
+    {
+        "level": "III",
+        "name": "Grand Vision",
+        "first": ["2VP", "1IC"],
+        "second": ["1IC", "3SP"],
+        "third": ["3SP"]
+    },
+    {
+        "level": "III",
+        "name": "Battle for Arrakkeen",
+        "first": ["2VP", "1AS"],
+        "second": ["1IC", "2SP", "3SL"],
+        "third": ["1IC", "2SL"]
+    },
+    {
+        "level": "III",
+        "name": "Battle for Imperial Basin",
+        "first": ["2VP", "1IS"],
+        "second": ["5SP"],
+        "third": ["3SP"]
+    },
+    {
+        "level": "III",
+        "name": "Battle for Carthag",
+        "first": ["2VP", "1IS"],
+        "second": ["5SP"],
+        "third": ["3SP"]
+    }
+]

@@ -13,11 +13,11 @@ This repository's goal is to develop tools that might be useful to develop and t
 See [./gamedata/dune-imperium].
 
 - [Board Spaces](./gamedata/dune-imperium/board-spaces.json)
-- Conflict Cards
-- Imperium Deck Cards
-- Intrigue Cards
-- Leader Cards
-- Reserve Cards
+- [Conflict Cards](./gamedata/dune-imperium/conflict-cards.json)
+- [Imperium Deck Cards](./gamedata/dune-imperium/imperium-deck-cards.json)
+- [Intrigue Cards](./gamedata/dune-imperium/intrigue-cards.json)
+- [Leader Cards](./gamedata/dune-imperium/leader-cards.json)
+- [Reserve Cards](./gamedata/dune-imperium/reserve-cards.json)
 
 
 ## Game State

@@ -12,7 +12,7 @@ This repository's goal is to develop tools that might be useful to develop and t
 
 See [./gamedata/dune-imperium].
 
-- [./gamedata/dune-imperium/board-spaces.json](Board Spaces)
+- [Board Spaces](./gamedata/dune-imperium/board-spaces.json)
 - Conflict Cards
 - Imperium Deck Cards
 - Intrigue Cards
